@@ -85,23 +85,18 @@ export const processSteps = [
 
 export const teamMembers = [
   {
-    name: 'Abuzar Munshi',
-    role: 'Founder & CEO',
-    avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80'
-  },
-  {
-    name: 'Tufail Ahmed',
-    role: 'Blockchain Developer',
+    name: 'Darshan',
+    role: 'Lead Blockchain Architect',
     avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80'
   },
   {
-    name: 'Rizwana Khan',
-    role: 'Frontend Developer',
-    avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80'
+    name: 'Niraj',
+    role: 'Senior Smart Contract Engineer',
+    avatar: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80'
   },
   {
-    name: 'Sameer Shaikh',
-    role: 'Smart Contract Developer',
+    name: 'Dharmik',
+    role: 'Full-Stack Web3 Developer',
     avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80'
   }
 ];

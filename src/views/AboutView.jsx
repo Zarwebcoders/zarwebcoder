@@ -9,24 +9,19 @@ import { LinkedinIcon, TwitterIcon, GithubIcon } from '../components/SocialIcons
 export default function AboutView({ onOpenModal }) {
   const teamMembersList = [
     {
-      name: 'Abuzar Munshi',
-      role: 'Founder & CEO',
+      name: 'Darshan',
+      role: 'Lead Blockchain Architect',
       image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80',
     },
     {
-      name: 'Tufail Ahmed',
-      role: 'Blockchain Developer',
+      name: 'Niraj',
+      role: 'Senior Smart Contract Engineer',
+      image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80',
+    },
+    {
+      name: 'Dharmik',
+      role: 'Full-Stack Web3 Developer',
       image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80',
-    },
-    {
-      name: 'Rizwana Khan',
-      role: 'Frontend Developer',
-      image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80',
-    },
-    {
-      name: 'Sameer Shaikh',
-      role: 'Smart Contract Developer',
-      image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80',
     }
   ];
 
@@ -321,8 +316,8 @@ export default function AboutView({ onOpenModal }) {
               </button>
             </div>
 
-            {/* 4 Team Cards Grid */}
-            <div className="grid-4" style={{ gap: '20px' }}>
+            {/* 3 Team Cards Grid */}
+            <div className="grid-3" style={{ gap: '20px' }}>
               {teamMembersList.map((member, i) => (
                 <div key={i} className="team-card" style={{ padding: '24px 18px', textAlign: 'center' }}>
                   <div className="team-avatar-wrapper" style={{ width: '96px', height: '96px', margin: '0 auto 16px' }}>

@@ -98,28 +98,28 @@ const blogPostsData = [
 // 4. Team Members Data (3 items)
 const teamMembersData = [
   {
-    name: 'Abuzar Munshi',
-    role: 'Founder & CEO',
+    name: 'Darshan',
+    role: 'Lead Blockchain Architect',
     bio: 'Lead Web3 Architect directing blockchain protocol development and decentralized system architecture.',
-    imageUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80',
+    imageUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80',
     linkedin: 'https://linkedin.com',
     twitter: 'https://x.com/zarwebcoders',
     order: 1
   },
   {
-    name: 'Tufail Ahmed',
-    role: 'Blockchain Developer',
-    bio: 'Specialist in EVM smart contract logic, cross-chain bridges, and DeFi financial engineering.',
-    imageUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80',
+    name: 'Niraj',
+    role: 'Senior Smart Contract Engineer',
+    bio: 'Smart contract engineer specialized in EVM logic, protocol security, and decentralized finance.',
+    imageUrl: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80',
     linkedin: 'https://linkedin.com',
     twitter: 'https://x.com/zarwebcoders',
     order: 2
   },
   {
-    name: 'Rizwana Khan',
-    role: 'Frontend Developer',
-    bio: 'Frontend engineer specialized in responsive React interfaces and Web3 wallet UX.',
-    imageUrl: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80',
+    name: 'Dharmik',
+    role: 'Full-Stack Web3 Developer',
+    bio: 'Full-stack Web3 developer specialized in responsive dApp interfaces and decentralized infrastructure.',
+    imageUrl: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80',
     linkedin: 'https://linkedin.com',
     twitter: 'https://x.com/zarwebcoders',
     order: 3
